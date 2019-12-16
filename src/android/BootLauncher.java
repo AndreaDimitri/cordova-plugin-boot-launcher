@@ -5,6 +5,7 @@ import android.net.Uri;
 import android.util.Log;
 import android.content.BroadcastReceiver;
 import android.content.Context;
+import com.example.parentalcontrol.MainActivity;
 
 public class BootLauncher extends BroadcastReceiver {
 
